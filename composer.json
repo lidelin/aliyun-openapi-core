@@ -1,0 +1,20 @@
+{
+    "name": "lidelin/aliyun-openapi-core",
+    "description": "aliyun openapi core",
+    "authors": [
+        {
+            "name": "lidelin",
+            "email": "lidelin1023@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/Config.php"
+        ],
+        "psr-4": {}
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    }
+}
